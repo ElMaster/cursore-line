@@ -5,13 +5,11 @@
 
 
 Подключем под картинку
-<pre>
-    <code>
-        "<div class='__timeline'>
+<p><code>
+        <div class='__timeline'>
             <div class='__timecodes'></div>
-         </div>"
-    </code>
-</pre>
+         </div></code>
+    </p>
 
 
 
