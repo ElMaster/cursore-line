@@ -1,15 +1,9 @@
 # cursore-line
-Стили
+
+<h4>Стили</h4>
 <pre><code>style-cursor.min.css</code></pre>
 
-
-
-Подключем под картинку
-<img src="http://prntscr.com/dbl7c4">
-
-
-
-Подключем в конце
+<h4>Подключем в конце</h4>
 
 
 <pre><code>
