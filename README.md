@@ -5,11 +5,7 @@
 
 
 Подключем под картинку
-<p><code>
-        <div class='__timeline'>
-            <div class='__timecodes'></div>
-         </div></code>
-    </p>
+<img src="http://prntscr.com/dbl7c4">
 
 
 
