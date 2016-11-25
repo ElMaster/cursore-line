@@ -2,7 +2,11 @@
 
 <h4>Стили</h4>
 <pre><code>style-cursor.min.css</code></pre>
-
+<p>Под картинку надо <br>
+&lt;div class='__timeline'&gt;<br>
+    &lt;div class='__timecodes'&gt;&lt;/div&gt;<br>
+&lt;/div&gt;
+</p>
 <h4>Подключем в конце</h4>
 
 
