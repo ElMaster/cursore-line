@@ -41,9 +41,9 @@
                             .join('src' + i))
                             .mouseenter(function () {
                                 var a = std_image.attr($(this).data("scroll"));
-                                $('<img src="' + a + '"/>').init(function () {
+                                // $('<img src="' + a + '"/>').init(function () {
                                     std_image.attr('src', a);
-                                })
+                                // })
 
                             });
 
