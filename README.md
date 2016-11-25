@@ -5,11 +5,13 @@
 
 
 Подключем под картинку
-<pre><code>
-<div class='__timeline'>
-    <div class='__timecodes'></div>
- </div>
-</code></pre>
+<pre>
+    <code>
+        "<div class='__timeline'>
+            <div class='__timecodes'></div>
+         </div>"
+    </code>
+</pre>
 
 
 
@@ -17,7 +19,8 @@
 
 
 <pre><code>
-slide-cursor.min.js
+    slide-cursor.min.js
+
 
     $(".thumbs li").timelineSlider({
         imgClass: '.stdimage', // Класс картинки с изображениям Default
