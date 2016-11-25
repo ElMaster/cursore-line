@@ -1,16 +1,22 @@
 # cursore-line
-
 Стили
-<link href="style-cursor.min.css" rel="stylesheet">
+<pre><code><link href="style-cursor.min.css" rel="stylesheet"></code></pre>
+
+
 
 Подключем под картинку
- <div class='__timeline'>
+<pre><code>
+<div class='__timeline'>
     <div class='__timecodes'></div>
  </div>
+</code></pre>
+
 
 
 Подключем в конце
 
+
+<pre><code>
 <script src="slide-cursor.min.js"></script>
 <script>
     $(".thumbs li").timelineSlider({
@@ -27,3 +33,4 @@
         background-color: #f73185;  /* цвет линии Default */
     }
 </style>
+</code></pre>
